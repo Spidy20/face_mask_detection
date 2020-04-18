@@ -28,6 +28,7 @@
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result1.jpg">
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result2.jpg">
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result3.jpg">
+<img src="https://github.com/Spidy20/face_mask_detection/blob/master/result3.jpg">
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result4.jpg">
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result5.jpg">
 
