@@ -6,11 +6,14 @@
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
 ## [Visit out Store for more intresting Project](https://www.instamojo.com/kushalbhavsar1820/)
 
+[Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
+
 ## Installation
 - Install Anaconda(`Python 3.7`) & Tensorflow GPU (`I used 1.15 TF`)
 - First Download Object Detecion official code from [here](https://github.com/tensorflow/models)
 - Then Download this Repository via GIT or zip.
-- In my Repository Extract Training folder.
+- Download [Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
+- In my Repository & `Training.zip` Extract folder.
 - Now copy all the files.
 - Go to the `master/research/object_detection` and paste all files & folders of my epository to there.
 - Open `face_mask_detection.ipynb` in Jupyter and give the image in which you want to detect Mask(Mentioned in code).
