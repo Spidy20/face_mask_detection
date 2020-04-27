@@ -4,7 +4,8 @@
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)   
 
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Visit out Store for more intresting Project](https://www.instamojo.com/kushalbhavsar1820/)
+## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+## Donate me on GPAY:- kushalbhavsar58-1@okaxis
 
 [Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
 
