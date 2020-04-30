@@ -6,6 +6,7 @@
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
 ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
 ## Donate me on GPAY:- kushalbhavsar58-1@okaxis
+## [Subscribe my channel on YoTube for Tutorials](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
 [Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
 
