@@ -38,6 +38,7 @@
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result5.jpg">
 
 ## Note:- Images Taken from Internet for just testing purpose.
+## I request you to donate something to me, because I have uploaded many of the my projects to opensource. Help me & supoort me to grow
 
 
 ## Just follow☝️ me and Star⭐ my repository 
