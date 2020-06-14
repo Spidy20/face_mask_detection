@@ -19,6 +19,7 @@
 - Now copy all the files & folders from my repository.
 - Go to the `master/research/object_detection` and paste all files & folders of my repository to there.
 - Open `face_mask_detection.ipynb` in Jupyter and give the image in which you want to detect Mask(Mentioned in code).
+- See the [tutorial](https://www.youtube.com/c/MachineLearningHub) and subscribe my youtube channel.
 
 ## What I did??
 
