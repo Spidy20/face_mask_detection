@@ -1,4 +1,4 @@
-# Face Mask😷 Detection using TensorFlow
+# Face Mask😷 Detection using TensorFlow {An Amazing Project}
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)   
@@ -11,9 +11,10 @@
 [Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
 
 ## Installation
-- Install Anaconda(`Python 3.7`) & Tensorflow GPU (`I used 1.15 TF`)
+- Install Anaconda(`Python 3.8`) & Tensorflow GPU (`I used 1.15 TF`)
 - First Download Object Detecion official code from [here](https://github.com/tensorflow/models)
 - Then Download this Repository via GIT or zip.
+-if you download from zip then unzip that downloaded file.
 - Download [Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
 - In my Repository extract `Training.zip.
 - Now copy all the files & folders from my repository.
