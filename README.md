@@ -5,10 +5,11 @@
 
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
 ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58-1@okaxis
 ## [Subscribe my channel on YoTube for Tutorials](https://www.youtube.com/channel/UCgyQ4pSntDf9hw9Rv4hmNBA)
 
-[Training.zip](https://drive.google.com/open?id=1CJlYHoyAr18jjimE0x4H-1WjpE5VJZOO)
+## Drive link updated
+[inference_graph.zip](https://drive.google.com/file/d/1vrNTdcGNq3QxTqgmSc-A_Khjvoeq9mwM/view?usp=sharing)
+
 
 ## Installation
 - Install Anaconda(`Python 3.8`) & Tensorflow GPU (`I used 1.15 TF`)
@@ -40,7 +41,6 @@
 <img src="https://github.com/Spidy20/face_mask_detection/blob/master/result5.jpg">
 
 ## Note:- Images Taken from Internet for just testing purpose.
-## I request you to donate something to me, because I have uploaded many of the my projects to opensource. Help me & supoort me to grow
 
 
 ## Just follow☝️ me and Star⭐ my repository 
